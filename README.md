@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<style>
-			#card {
-			width: 100%;
-			max-width:400px;
-            height:auto;
-			}
-		</style>
 	</head>
 	<body>
 		<h1 align="center">Card</h1>
 		<div align="center" >
-			<img id="card" src="./dist/card.png" alt="Logo" />
+			<img id="card" src="./dist/card.png" width="500px" alt="Logo" />
 		</div>
 		<div align="center">
 			<i>Generative Art Business Card</i>
