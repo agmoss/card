@@ -1,54 +1,47 @@
-<!DOCTYPE html>
-<html>
-	<head>
-	</head>
-	<body>
-		<h1 align="center">Card</h1>
-		<div align="center" >
-			<img id="card" src="https://ggantstorage.blob.core.windows.net/images/card.png" width="500px" alt="Logo" />
-		</div>
-		<div align="center">
-			<i>Generative Art Business Card</i>
-		</div>
-		<br />
-		<div align="center">
-			<!-- Dependencies -->
-			<a>
-			<img src="https://img.shields.io/david/agmoss/m0ss" alt="Dependencies" />
-			</a>
-			<!-- Size -->
-			<a>
-			<img src="https://img.shields.io/github/languages/code-size/agmoss/card" alt="Code Size" />
-			</a>
-			<!-- Style -->
-			<a>
-			<img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
-			</a>
-			<!-- Pylint -->
-			<a>
-			<img alt="Pylint Score" src="./dist/pylint.svg">
-			</a>
-			<!-- Language -->
-			<a>
-			<img alt="language" src="https://img.shields.io/github/languages/top/agmoss/card">
-			</a>
-			<!-- Language -->
-			<a>
-			<img alt="Python3.7" href="https://www.python.org/downloads/release/python-373/" src="https://img.shields.io/badge/python-3.7.3-blue.svg">
-			</a>
-			<!-- License -->
-			<a>
-			<img alt="license" src="https://img.shields.io/github/license/agmoss/card">
-			</a>
-		</div>
-		<br />
-		<div align="center">
-			<sub>Built by
-			<a href="https://github.com/agmoss">Andrew Moss</a>
-		</div>
-		<br />
-	</body>
-</html>
+<h1 align="center">Card</h1>
+<div align="center" >
+	<img id="card" src="https://m0ss.blob.core.windows.net/media/card.png" width="500px" alt="Logo" />
+</div>
+<div align="center">
+	<i>Generative Art Business Card</i>
+</div>
+<br />
+<div align="center">
+	<!-- Dependencies -->
+	<a>
+	<img src="https://img.shields.io/david/agmoss/m0ss" alt="Dependencies" />
+	</a>
+	<!-- Size -->
+	<a>
+	<img src="https://img.shields.io/github/languages/code-size/agmoss/card" alt="Code Size" />
+	</a>
+	<!-- Style -->
+	<a>
+	<img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
+	</a>
+	<!-- Pylint -->
+	<a>
+	<img alt="Pylint Score" src="https://m0ss.blob.core.windows.net/media/pylint.svg">
+	</a>
+	<!-- Language -->
+	<a>
+	<img alt="language" src="https://img.shields.io/github/languages/top/agmoss/card">
+	</a>
+	<!-- Language -->
+	<a>
+	<img alt="Python3.7" href="https://www.python.org/downloads/release/python-373/" src="https://img.shields.io/badge/python-3.7.3-blue.svg">
+	</a>
+	<!-- License -->
+	<a>
+	<img alt="license" src="https://img.shields.io/github/license/agmoss/card">
+	</a>
+</div>
+<br />
+<div align="center">
+	<sub>Built by
+	<a href="https://github.com/agmoss">Andrew Moss</a>
+</div>
+<br />
 
 ## Code
 
